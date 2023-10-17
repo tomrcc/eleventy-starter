@@ -19,7 +19,11 @@
 
   &__logo {
     img {
-      width: 108px;
+      width: 200px;
+
+      @media screen and (min-width: $max-width-md) {
+        width: 250px;
+      }
     }
   }
 

@@ -32,8 +32,12 @@
     margin-top: 60px;
     margin-bottom: 64px;
     margin-inline: auto;
-    font-size: 3.75rem;
+    font-size: 3rem;
     font-weight: bold;
+
+    @media only screen and (min-width: $max-width-lg) {
+      font-size: 4rem;
+    }
   }
 
   p {
