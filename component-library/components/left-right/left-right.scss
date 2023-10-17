@@ -52,10 +52,10 @@
 
   &__img {
     margin-top: 32px;
+    min-width: 50%;
     max-width: 618px;
 
     @media only screen and (min-width: $max-width-lg) {
-      max-width: 50%;
       translate: 42px 24px;
     }
   }
