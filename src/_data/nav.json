@@ -1,0 +1,29 @@
+{
+  "logo": "/images/logo.svg",
+  "items": [
+    {
+      "text": "Analysis",
+      "link": "/blog/"
+    },
+    {
+      "text": "Resources",
+      "link": "/resources/"
+    },
+    {
+      "text": "Enterprise",
+      "link": "/enterprise/"
+    },
+    {
+      "text": "Consumer",
+      "link": "/consumer/"
+    },
+    {
+      "text": "Brands",
+      "link": "/brands/"
+    },
+    {
+      "text": "About",
+      "link": "/about/"
+    }
+  ]
+}
