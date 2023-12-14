@@ -1,14 +1,14 @@
 .blog {
-  padding: $base-padding;
+  padding: 64px $base-padding;
   max-width: $max-width-xxl;
   margin: 0 auto;
 
   @media screen and (min-width: $max-width-md) {
-    padding: 32px;
+    padding: 64px 32px;
   }
 
   @media screen and (min-width: $max-width-xl) {
-    padding: 0 157px;
+    padding: 64px 157px;
   }
 
   &__hero-content {
